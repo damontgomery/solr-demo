@@ -46,3 +46,12 @@ docker compose exec solr bash
 ```bash
 docker down
 ```
+
+## More information on the Docker container
+
+- [https://github.com/docker-solr/docker-solr](https://github.com/docker-solr/docker-solr)
+- [https://hub.docker.com/_/solr](https://hub.docker.com/_/solr)
+
+## This repository
+
+This docker compose file was taken from the repository listed above and the demo script was added instead of the other setup scripts.
